@@ -19,3 +19,5 @@ const styles = StyleSheet.create({
       width:undefined
     }
 })
+
+// Well something was not working in the React-navigation... Perhaps things have started to change a bit
